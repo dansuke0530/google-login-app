@@ -1,9 +1,9 @@
 import { initializeApp } from "https://www.gstatic.com/firebasejs/10.7.1/firebase-app.js";
 import { getAuth, signInWithPopup, GoogleAuthProvider, onAuthStateChanged, signOut } from "https://www.gstatic.com/firebasejs/10.7.1/firebase-auth.js";
 
-// Firebaseの設定（教えてくれた内容）
+// Firebaseの設定
 const firebaseConfig = {
-  apiKey: "AIzaSyDXTs6VmipPhW0P8YJjCAayUFketNunAKM",
+  apiKey: "AIzaSyDXTs6VmippHW0P8YjJCAayUFketNunAKM", 
   authDomain: "login-f8ff6.firebaseapp.com",
   projectId: "login-f8ff6",
   storageBucket: "login-f8ff6.firebasestorage.app",
